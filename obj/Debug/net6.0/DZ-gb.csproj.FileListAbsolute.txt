@@ -1,0 +1,15 @@
+C:\Users\Marina\Desktop\DZ\DZ-gb\bin\Debug\net6.0\DZ-gb.exe
+C:\Users\Marina\Desktop\DZ\DZ-gb\bin\Debug\net6.0\DZ-gb.deps.json
+C:\Users\Marina\Desktop\DZ\DZ-gb\bin\Debug\net6.0\DZ-gb.runtimeconfig.json
+C:\Users\Marina\Desktop\DZ\DZ-gb\bin\Debug\net6.0\DZ-gb.dll
+C:\Users\Marina\Desktop\DZ\DZ-gb\bin\Debug\net6.0\DZ-gb.pdb
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.csproj.AssemblyReference.cache
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.AssemblyInfoInputs.cache
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.AssemblyInfo.cs
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.csproj.CoreCompileInputs.cache
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.dll
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\refint\DZ-gb.dll
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.pdb
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\DZ-gb.genruntimeconfig.cache
+C:\Users\Marina\Desktop\DZ\DZ-gb\obj\Debug\net6.0\ref\DZ-gb.dll
