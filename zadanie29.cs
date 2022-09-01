@@ -1,15 +1,20 @@
-int [] array = new int[10];
-Random rnd = new Random();
-Console.Write("[");
+Console.WriteLine("Введите число N, соответствующее числу элементов массива: ");
+int N = int.Parse(Console.ReadLine());
 
-for (int i = 0; i < array.Length; i++)
- {
-    array [i] = rnd.Next(0, 1000);
-    Console.Write(" " + Method (i) + " ");
- }
-Console.Write("]");
+Console.WriteLine("Введите число a, наименьшее из массива: ");
+int a = int.Parse(Console.ReadLine());
 
-int Method (int a)
+Console.WriteLine("Введите число b, наибольшее из массива: ");
+int b = int.Parse(Console.ReadLine());
+
+int [] InitArray()
 {
-    return array[a];
+    int[] arr = new int[N];
+    for(int i = 0; i < N; i++)
+    {
+        arr[i] = new Random().Next(a, b+1);
+    }
+    return arr;
 }
+
+Console.WriteLine(String.Join(", ", InitArray()));
