@@ -11,4 +11,3 @@ else if (b > a)
 {
     Console.WriteLine("Число {a} меньше чем {b}");
 }
-123
